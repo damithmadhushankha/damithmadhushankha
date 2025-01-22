@@ -1,20 +1,19 @@
 # 🌈 Hello, I'm Damith Madhushankha! 🌈
 
-![Header Image](https://drive.google.com/file/d/1WyzcJciQ1dpVmqBUN7GXDLaJWCxm0yRJ/view?usp=sharing)
+![Header Image](https://pin.it/4sNfQW68M)
 
-Welcome to my GitHub profile! I'm a passionate **[Your Profession/Field]** with a love for **[Your Interests]**. Here, you'll find a collection of my projects, contributions, and a bit about me.
+Welcome to my GitHub profile! I'm a passionate **Freelancer** with a love for **Cyber security**. Here, you'll find a collection of my projects, contributions, and a bit about me.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Current Project or Area of Focus]**
-- 🌱 I’m currently learning **[Technologies or Skills You're Learning]**
-- 👯 I’m looking to collaborate on **[Types of Projects or Areas of Interest]**
-- 🤔 I’m looking for help with **[Any Specific Challenges or Questions]**
-- 💬 Ask me about **[Topics You’re Knowledgeable About]**
-- 📫 How to reach me: [Your Email or Social Media Links]
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 🔭 I’m currently working on **Freelancing Platforms.**
+- 🌱 I’m currently learning **AI & Computer Science.**
+- 👯 I’m looking to collaborate on **Social Engineering Tools.**
+- 🤔 I’m looking for help with **Hacking.**
+- 💬 Ask me about **Any Technical Issues and Bugs**
+- 📫 How to reach me: damithmadhusankha@proton.me
 
 ---
 
@@ -22,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **[Your Profession/Field]** with 
 
 Here are some of the technologies and tools I work with:
 
-![Languages](https://img.shields.io/badge/Languages-JavaScript%2C%20Python%2C%20Java-blue)
+![Languages](https://img.shields.io/badge/Languages-HTML%2C%20Python%2C%20C%2B%2B%2C%20JavaScript%2C%20Python%2C%20Java-blue)
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%2C%20Django%2C%20Flask-brightgreen)
 ![Databases](https://img.shields.io/badge/Databases-MySQL%2C%20MongoDB%2C%20PostgreSQL-orange)
 ![Tools](https://img.shields.io/badge/Tools-Git%2C%20Docker%2C%20VS%20Code-lightgrey)
@@ -33,20 +32,30 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my notable projects:
 
-1. **[Project Name 1]**  
-   ![Project 1 Image](https://via.placeholder.com/150)  
-   [Brief description of the project. What does it do? What technologies did you use?]  
-   [🔗 View Project](https://github.com/YourUsername/Project1)
+1. **Project Alpha**  
+   ![Project Alpha Image](https://via.placeholder.com/150)  
+   A web application that allows users to track their daily tasks and improve productivity. Built with HTML, CSS, and JavaScript.  
+   [🔗 View Project](https://github.com/YourUsername/ProjectAlpha)
 
-2. **[Project Name 2]**  
-   ![Project 2 Image](https://via.placeholder.com/150)  
-   [Brief description of the project. What does it do? What technologies did you use?]  
-   [🔗 View Project](https://github.com/YourUsername/Project2)
+2. **Project Beta**  
+   ![Project Beta Image](https://via.placeholder.com/150)  
+   A machine learning model that predicts house prices based on various features. Developed using Python and scikit-learn.  
+   [🔗 View Project](https://github.com/YourUsername/ProjectBeta)
 
-3. **[Project Name 3]**  
-   ![Project 3 Image](https://via.placeholder.com/150)  
-   [Brief description of the project. What does it do? What technologies did you use?]  
-   [🔗 View Project](https://github.com/YourUsername/Project3)
+3. **Project Gamma**  
+   ![Project Gamma Image](https://via.placeholder.com/150)  
+   A mobile application for tracking fitness goals and workouts. Created with React Native and Firebase.  
+   [🔗 View Project](https://github.com/YourUsername/ProjectGamma)
+
+4. **Project Delta**  
+   ![Project Delta Image](https://via.placeholder.com/150)  
+   An interactive data visualization dashboard that displays real-time data from various sources. Built with D3.js and Node.js.  
+   [🔗 View Project](https://github.com/YourUsername/ProjectDelta)
+
+5. **Project Epsilon**  
+   ![Project Epsilon Image](https://via.placeholder.com/150)  
+   A simple game built with Unity that challenges players to solve puzzles and complete levels.  
+   [🔗 View Project](https://github.com/YourUsername/ProjectEpsilon)
 
 ---
 
