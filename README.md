@@ -32,30 +32,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my notable projects:
 
-1. **Project Alpha**  
-   ![Project Alpha Image](https://via.placeholder.com/150)  
-   A web application that allows users to track their daily tasks and improve productivity. Built with HTML, CSS, and JavaScript.  
-   [🔗 View Project](https://github.com/YourUsername/ProjectAlpha)
-
-2. **Project Beta**  
-   ![Project Beta Image](https://via.placeholder.com/150)  
-   A machine learning model that predicts house prices based on various features. Developed using Python and scikit-learn.  
-   [🔗 View Project](https://github.com/YourUsername/ProjectBeta)
-
-3. **Project Gamma**  
-   ![Project Gamma Image](https://via.placeholder.com/150)  
-   A mobile application for tracking fitness goals and workouts. Created with React Native and Firebase.  
-   [🔗 View Project](https://github.com/YourUsername/ProjectGamma)
-
-4. **Project Delta**  
-   ![Project Delta Image](https://via.placeholder.com/150)  
-   An interactive data visualization dashboard that displays real-time data from various sources. Built with D3.js and Node.js.  
-   [🔗 View Project](https://github.com/YourUsername/ProjectDelta)
-
-5. **Project Epsilon**  
-   ![Project Epsilon Image](https://via.placeholder.com/150)  
-   A simple game built with Unity that challenges players to solve puzzles and complete levels.  
-   [🔗 View Project](https://github.com/YourUsername/ProjectEpsilon)
+Sorry!! Curruntly, I'm Doing Some Projects..I will update sooon!!!
 
 ---
 
@@ -67,8 +44,8 @@ Here are some of my notable projects:
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
-- [Personal Website/Blog](Your Website)
+- [FB Page](@pagedamith)
+- [Facebook](@profiledamith)
+- [Personal Website(https://damithmadhushankha.github.io/damith.site/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or just want to chat. Happy coding! 🎉
