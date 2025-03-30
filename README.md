@@ -1,6 +1,5 @@
 # 🌈 Hello, I'm Damith Madhushankha! 🌈
 
-![Header Image](https://pin.it/4sNfQW68M)
 
 Welcome to my GitHub profile! I'm a passionate **Freelancer** with a love for **Cyber security**. Here, you'll find a collection of my projects, contributions, and a bit about me.
 
