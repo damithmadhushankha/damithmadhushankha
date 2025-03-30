@@ -46,6 +46,6 @@ Sorry!! Curruntly, I'm Doing Some Projects..I will update sooon!!!
 
 - [FB Page](@pagedamith)
 - [Facebook](@profiledamith)
-- [Personal Website(https://damithmadhushankha.github.io/damith.site/)
+- [Personal Website](https://damithmadhushankha.github.io/damith.site/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or just want to chat. Happy coding! 🎉
